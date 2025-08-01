@@ -1,2 +1,1 @@
-# Artificial-Intelligence
-An Introduction to Generative AI
+# Artificial Intelligence - A Future is HERE
